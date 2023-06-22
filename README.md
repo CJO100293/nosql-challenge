@@ -75,8 +75,5 @@ Unless otherwise stated, for each question:
 4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
 
 ## **Sources**
-### **Part 1**
-
-### **Part 2**
-
-### **Part 3**
+### **NoSQL_setup_starter**
+### **NoSQL_analysis_starter**
