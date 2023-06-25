@@ -75,6 +75,8 @@ Unless otherwise stated, for each question:
 4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
 
 ## **Sources**
-### **NoSQL_setup_starter**
-
 ### **NoSQL_analysis_starter**
+The basis for the code used in the "Find the establishments with London as the Local Authority and has a RatingValue greater than or equal to 4" section was worked out with the help of Steve Bennet as well as the following:
+* https://stackoverflow.com/questions/25292838/applying-regex-to-a-pandas-dataframe
+* https://stackoverflow.com/questions/53962844/applying-regex-across-entire-column-of-a-dataframe
+* https://stackoverflow.com/questions/61399659/applying-lambda-regex-to-pandas-dataframe-and-getting-correct-result-back-but-su
