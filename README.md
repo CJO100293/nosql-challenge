@@ -76,4 +76,7 @@ Unless otherwise stated, for each question:
 
 ## **Sources**
 ### **NoSQL_analysis_starter**
-The basis for the code used in the "Find the establishments with London as the Local Authority and has a RatingValue greater than or equal to 4" section was worked out with the help of Steve Bennet so if our code looks similar than that is why.
+The basis for the code used in the "Find the establishments with London as the Local Authority and has a RatingValue greater than or equal to 4" section was worked out with the help of Steve Bennet as well as the following so if our code looks similar than that is why:
+- https://pynative.com/python-regex-compile/
+- https://www.w3schools.com/python/python_regex.asp
+- https://docs.python.org/3/library/re.html
