@@ -76,7 +76,9 @@ Unless otherwise stated, for each question:
 
 ## **Sources**
 ### **NoSQL_analysis_starter**
-The basis for the code used in the "Find the establishments with London as the Local Authority and has a RatingValue greater than or equal to 4" section was worked out with the help of Steve Bennet as well as the following links so if our code looks similar than that is why:
-- https://pynative.com/python-regex-compile/
-- https://www.w3schools.com/python/python_regex.asp
-- https://docs.python.org/3/library/re.html
+- The basis for the code used in the "Find the establishments with London as the Local Authority and has a RatingValue greater than or equal to 4" section was worked out with the help of Steve Bennet as well as the following links so if our code looks similar than that is why:
+    - https://pynative.com/python-regex-compile/
+    - https://www.w3schools.com/python/python_regex.asp
+    - https://docs.python.org/3/library/re.html
+
+- The basis for the code used in the "Search within 0.01 degree on either side of the latitude and longitude, Rating value must equal 5, Sort by hygiene score" section was worked out with the help of the tutor Steven Thomas.
